@@ -1,6 +1,6 @@
-# My Safety Guard
+# Rescue Me
 
-My Safety Guard keeps you in touch with your closest contacts by instantaneously sending a photo, GPS information and other information when you need them the most.
+Rescue Me keeps you in touch with your closest contacts by instantaneously sending a photo, GPS information and other information when you need them the most.
 
 
 ## Deployment
